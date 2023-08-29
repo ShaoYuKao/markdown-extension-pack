@@ -70,6 +70,8 @@ This extension pack packages some of the most popular Markdown extensions.
     > You can paste not only images, but also any Text, HTML, Rich-Text to Markdown.\
     > (您不僅可以粘貼圖像，還可以將任何文本，HTML，富文本粘貼到 Markdown。)
 
+- [Markdown Paste Image](https://marketplace.visualstudio.com/items?itemName=onesdev.vscode-paste-image-plus)
+
 - [Excel to Markdown table](https://marketplace.visualstudio.com/items?itemName=csholmq.excel-to-markdown-table)
 
   Useful Shortcuts:
@@ -146,6 +148,9 @@ This extension pack packages some of the most popular Markdown extensions.
   [*.md]
   indent_size = 2
   ```
+
+- [Markdown Extended](https://marketplace.visualstudio.com/items?itemName=jebbs.markdown-extended)
+- [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf)
 
 ### Customizable Shortcuts
 

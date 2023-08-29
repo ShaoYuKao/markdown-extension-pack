@@ -31,7 +31,10 @@
     "telesoho.vscode-markdown-paste-image",
     "csholmq.excel-to-markdown-table",
     "jerriepelser.copy-markdown-as-html",
-    "doggy8088.markdown-extension-pack"
+    "doggy8088.markdown-extension-pack",
+    "jebbs.markdown-extended",
+    "onesdev.vscode-paste-image-plus",
+    "yzane.markdown-pdf"
   ],
   "contributes": {
     "snippets": [
