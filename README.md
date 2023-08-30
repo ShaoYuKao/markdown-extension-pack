@@ -207,6 +207,8 @@ You need to install the following extensions manually if you need:\
 
   Import your Medium posts into Markdown in your editor.
 
+- [Front Matter CMS](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-front-matter)
+
 ### Code Snippets
 
 | Prefix    | Description                         |
@@ -217,5 +219,8 @@ You need to install the following extensions manually if you need:\
 ### Useful links
 
 - [Markdown and Visual Studio Code](https://code.visualstudio.com/Docs/languages/markdown)
+- [你一定不能不知道的 Markdown 寫作技巧](https://www.youtube.com/watch?v=_05BEggK0IU)
+- [你一定不能不知道的 Markdown 寫作技 - slideshare](https://www.slideshare.net/WillHuangTW/learn-markdown-authoring-skills)
+- [Markdown 技術文件寫作 - VSCode FrontMatter 擴充套件](https://blog.darkthread.net/blog/vscode-frontmatter-ext/)
 
 **Enjoy!**
