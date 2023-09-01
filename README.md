@@ -152,6 +152,32 @@ This extension pack packages some of the most popular Markdown extensions.
 - [Markdown Extended](https://marketplace.visualstudio.com/items?itemName=jebbs.markdown-extended)
 - [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf)
 
+  **Usage**\
+  **Command Palette**
+  1. Open the Markdown file
+  2. Press `F1` or `Ctrl+Shift+P`
+  3. Type export and select below
+      - markdown-pdf: Export (settings.json)
+      - markdown-pdf: Export (pdf)
+      - markdown-pdf: Export (html)
+      - markdown-pdf: Export (png)
+      - markdown-pdf: Export (jpeg)
+      - markdown-pdf: Export (all: pdf, html, png, jpeg)
+
+![](images/usage1.gif)
+
+  **Menu**
+  1. Open the Markdown file
+  2. Right click and select below
+      - markdown-pdf: Export (settings.json)
+      - markdown-pdf: Export (pdf)
+      - markdown-pdf: Export (html)
+      - markdown-pdf: Export (png)
+      - markdown-pdf: Export (jpeg)
+      - markdown-pdf: Export (all: pdf, html, png, jpeg)
+
+![](images/usage2.gif)
+
 ### Customizable Shortcuts
 
 1. **Insert Snippet** (`editor.action.insertSnippet`)
