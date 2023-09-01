@@ -2,9 +2,9 @@
   "name": "markdown-extension-pack",
   "displayName": "markdown-extension-pack",
   "description": "Popular Visual Studio Code extensions for Markdown authoring",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "ShaoYuKao",
-  "icon": "./images/markdown_icon.png",
+  "icon": "images/markdown_icon.png",
   "repository": "https://github.com/ShaoYuKao/markdown-extension-pack",
   "engines": {
     "vscode": "^1.54.0"
