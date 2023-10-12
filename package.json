@@ -2,7 +2,7 @@
   "name": "markdown-extension-pack",
   "displayName": "markdown-extension-pack",
   "description": "Popular Visual Studio Code extensions for Markdown authoring",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "publisher": "ShaoYuKao",
   "icon": "images/markdown_icon.png",
   "repository": "https://github.com/ShaoYuKao/markdown-extension-pack",
@@ -34,7 +34,8 @@
     "doggy8088.markdown-extension-pack",
     "jebbs.markdown-extended",
     "onesdev.vscode-paste-image-plus",
-    "yzane.markdown-pdf"
+    "yzane.markdown-pdf",
+    "talljack.vscode-auto-space"
   ],
   "contributes": {
     "snippets": [

@@ -20,3 +20,8 @@ Add Extension Pack
 - Modify README.md
 - Modify markdown.json format
 - Add .editorconfig File
+
+## 0.1.0 - 2023-10-12
+
+Add Extension Pack
+- [Auto Add Space between Chinese and English](https://marketplace.visualstudio.com/items?itemName=talljack.vscode-auto-space&fbclid=IwAR0SoXCPmxsYuQff6cX-1eDuJw5yryhsQPxVjDtGK6x1IWr5s7ZfSqMsb3Q)

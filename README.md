@@ -84,6 +84,11 @@ This extension pack packages some of the most popular Markdown extensions.
    Paste CSV to Markdown doc. Select the corresponding text to CSV. Hit `F1` and select **Convert CSV to Markdown Table** command. Done!\
    (將 CSV 粘貼到 Markdown 文檔。 選擇 CSV 中對應的文本。 按 `F1` 並選擇 **將 CSV 轉換為 Markdown 表** 命令。 完畢！)
 
+- [Auto Add Space between Chinese and English](https://marketplace.visualstudio.com/items?itemName=talljack.vscode-auto-space&fbclid=IwAR0SoXCPmxsYuQff6cX-1eDuJw5yryhsQPxVjDtGK6x1IWr5s7ZfSqMsb3Q)
+
+    可以自動幫我把所有文件中的「中文」與「英文」之間自動加上一個空白字元\
+    使用方式：`F1 > 搜尋 space > 按下 Auto Add Space`
+
 ### Markdown Preview enhancements
 
 - [Markdown Preview Github Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)
