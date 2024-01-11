@@ -35,7 +35,8 @@
     "jebbs.markdown-extended",
     "onesdev.vscode-paste-image-plus",
     "yzane.markdown-pdf",
-    "talljack.vscode-auto-space"
+    "talljack.vscode-auto-space",
+    "doggy8088.pangu2"
   ],
   "contributes": {
     "snippets": [

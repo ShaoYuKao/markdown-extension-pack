@@ -25,3 +25,8 @@ Add Extension Pack
 
 Add Extension Pack
 - [Auto Add Space between Chinese and English](https://marketplace.visualstudio.com/items?itemName=talljack.vscode-auto-space&fbclid=IwAR0SoXCPmxsYuQff6cX-1eDuJw5yryhsQPxVjDtGK6x1IWr5s7ZfSqMsb3Q)
+
+## 0.2.0 - 2024-01-11
+
+Add Extension Pack
+- [盤古之白](https://marketplace.visualstudio.com/items?itemName=doggy8088.pangu2)

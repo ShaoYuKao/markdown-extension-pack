@@ -89,6 +89,9 @@ This extension pack packages some of the most popular Markdown extensions.
     可以自動幫我把所有文件中的「中文」與「英文」之間自動加上一個空白字元\
     使用方式：`F1 > 搜尋 space > 按下 Auto Add Space`
 
+- [盤古之白](https://marketplace.visualstudio.com/items?itemName=doggy8088.pangu2)
+    這個擴充套件會自動替你在文件中所有的中文字和半形的英文、數字、符號之間插入空白。
+
 ### Markdown Preview enhancements
 
 - [Markdown Preview Github Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)
